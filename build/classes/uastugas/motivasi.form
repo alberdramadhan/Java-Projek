@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,31,0,0,3,-118"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="95" y="77" width="715" height="402"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="1. &#x201c;Semua stres, kecemasan, depresi, disebabkan kita mengabaikan siapa diri kita dan mulai hidup untuk menyenangkan orang lain.&#x201d; &#x2212;Paulo Coelho.&#xa;&#xa;2. &#x201c;Penyakit mental terjadi ketika kesehatan mental kita dikompromikan atau diabaikan begitu lama sehingga memengaruhi kemampuan kita untuk berfungsi dalam kehidupan sehari-hari.&#x201d; &#x2212;Kati Morton.&#xa;&#xa;3. &#x201c;Aku percaya cara terbaik untuk mengelola pikiran adalah dengan mendidik diri kita sendiri terlebih dahulu. Kita perlu memahami sepenuhnya perasaan penyakit mental terhadap seseorang sebelum kita membicarakannya dengan serius.&#x201d; &#x2212;Kati Morton.&#xa;&#xa;4. &#x201c;Penyakit mental bukanlah hal yang memalukan, tetapi stigma dan bias yang mempermalukan kita semua.&#x201d; &#x2212;Bill Clinton.&#xa;&#xa;5. &quot;Kadang-kadang kamu bangun dari tempat tidur di pagi hari dan kamu berpikir, aku tidak akan berhasil. Namun, kamu tertawa di dalam hati mengingat semua waktu yang kamu rasakan seperti itu.&quot; &#x2212;Charles Bukowski.&#xa;&#xa;6. &#x201c;Aku menemukan bahwa dengan depresi, salah satu hal terpenting yang dapat kamu sadari adalah bahwa kamu tidak sendiri. Kamu bukan yang pertama melewatinya. Kamu juga tidak akan menjadi yang terakhir melewatinya.&#x201d; &#x2013;Dwayne &#x201c;The Rock&#x201d; Johnson.&#xa;&#xa;7. &#x201c;Ingat saja, kamu tidak sendirian. Pada kenyataannya, kamu berada di tempat yang sangat biasa dengan jutaan orang lain. Kita perlu saling membantu dan terus berjuang untuk mencapai tujuan kita.&#x201d; &#x2014;Mike Moreno.&#xa;&#xa;8. &#x201c;Perasaan ini akan berlalu. Ketakutan itu nyata tetapi bahayanya tidak.&#x201d; &#x2212;Cammie McGovern.&#xa;&#xa;9. &quot;Perawatan diri adalah bagaimana kamu mengambil kembali kekuatan kamu.&quot; &#x2212;Lalah Delia.&#xa;&#xa;10. &quot;Satu retakan kecil bukan berarti kamu hancur. Itu berarti kamu sedang diuji dan kamu tidak hancur.&quot; &#x2212;Linda Poindexter."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tw Cen MT Condensed Extra Bold" size="24" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="MOTIVASI MENTAL HEALTH!"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="332" y="33" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="BACK"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="10" y="509" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Lenovo\Downloads\yttt.jpg"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="-220" y="0" width="1130" height="540"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
